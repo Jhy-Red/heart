@@ -1,0 +1,40 @@
+PROJET 2 : Medical Study - HEART Disease
+
+QUESTION : What is the main troublemaker for getting heart attack, correlation between heart attack & heart diseases
+
+INFOS DATA : FROM 1988, AMERICA - CLEVELAND
+
+DEPOT / REMOTE : 
+
+https://github.com/jhy-joffrey/Projets-2.git
+
+
+FILES :
+READ ME 
+Definition : More information - medical & lexical
+heart.py
+
+    /DATA :
+heart.csv
+
+TOOLS :
+Python 3.7.4
+
+LIBRARY
+Pandas
+
+DATA : 
+
+https://www.kaggle.com/ronitf/heart-disease-uci#heart.csv
+extracted from study(1)
+
+Sources :
+https://www.heartfoundation.org.au/your-heart/know-your-risks/blood-pressure/is-my-blood-pressure-normal
+https://www.mayoclinic.org/diseases-conditions/diabetes/diagnosis-treatment/drc-20371451
+https://archive.ics.uci.edu/ml/datasets/Heart+Disease (1)
+https://ecgwaves.com/topic/acute-coronary-syndromes-acs-myocardial-infarction-ami/
+
+INDEX : 
+Names - lines begin - lines end
+cholesterols : 74 - 82
+diabetes : 84 - 91
